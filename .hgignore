@@ -1,6 +1,0 @@
-glob:*.pyc
-glob:*.log
-glob:.DS_Store
-glob:set.pickle
-glob:*~
-glob:*.orig
